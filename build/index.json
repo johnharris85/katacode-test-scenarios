@@ -35,6 +35,7 @@
           "target": "~/"
         }
       ]
+    }
   },
   "environment": {
     "uilayout": "terminal"
